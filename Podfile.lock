@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyXML (3.0.1)
+
+DEPENDENCIES:
+  - SwiftyXML (~> 3.0.0)
+
+SPEC REPOS:
+  trunk:
+    - SwiftyXML
+
+SPEC CHECKSUMS:
+  SwiftyXML: 6ccebc5162ff1d524f013cee72a2bd681d79316d
+
+PODFILE CHECKSUM: 318a72ecec6e9cdd57607a5af580272b17734544
+
+COCOAPODS: 1.8.4

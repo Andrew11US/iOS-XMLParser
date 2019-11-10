@@ -41,8 +41,8 @@ class ViewController: UIViewController, XMLParserDelegate {
 
             """
             
-            print(book.bookAuthor)
-            print(book.bookTitle)
+//            print(book.bookAuthor)
+//            print(book.bookTitle)
         }
         textView.text = tempStr
     }
