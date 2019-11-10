@@ -13,6 +13,8 @@
 		014CE96C237838C700A3542A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 014CE96A237838C700A3542A /* Main.storyboard */; };
 		014CE96E237838C800A3542A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 014CE96D237838C800A3542A /* Assets.xcassets */; };
 		014CE971237838C800A3542A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 014CE96F237838C800A3542A /* LaunchScreen.storyboard */; };
+		014CE97923784CD100A3542A /* Books.xml in Resources */ = {isa = PBXBuildFile; fileRef = 014CE97823784CD100A3542A /* Books.xml */; };
+		014CE97B23784D0D00A3542A /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 014CE97A23784D0D00A3542A /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		014CE96D237838C800A3542A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		014CE970237838C800A3542A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		014CE972237838C800A3542A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		014CE97823784CD100A3542A /* Books.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Books.xml; sourceTree = "<group>"; };
+		014CE97A23784D0D00A3542A /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				014CE964237838C700A3542A /* AppDelegate.swift */,
 				014CE966237838C700A3542A /* SceneDelegate.swift */,
 				014CE968237838C700A3542A /* ViewController.swift */,
+				014CE97A23784D0D00A3542A /* Model.swift */,
+				014CE97823784CD100A3542A /* Books.xml */,
 				014CE96A237838C700A3542A /* Main.storyboard */,
 				014CE96D237838C800A3542A /* Assets.xcassets */,
 				014CE96F237838C800A3542A /* LaunchScreen.storyboard */,
@@ -127,6 +133,7 @@
 			files = (
 				014CE971237838C800A3542A /* LaunchScreen.storyboard in Resources */,
 				014CE96E237838C800A3542A /* Assets.xcassets in Resources */,
+				014CE97923784CD100A3542A /* Books.xml in Resources */,
 				014CE96C237838C700A3542A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -141,6 +148,7 @@
 				014CE969237838C700A3542A /* ViewController.swift in Sources */,
 				014CE965237838C700A3542A /* AppDelegate.swift in Sources */,
 				014CE967237838C700A3542A /* SceneDelegate.swift in Sources */,
+				014CE97B23784D0D00A3542A /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
